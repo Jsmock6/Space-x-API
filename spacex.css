@@ -1,0 +1,57 @@
+body {
+    background-color: blanchedalmond;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+    background-size: cover;
+    color: darkgreen;
+    font-size: 20px;
+  }
+
+.title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.wrapper {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    border-radius: 10px;
+    
+  }
+  
+.controls, .results {
+    flex: 1;
+    padding: 10px;
+    border: solid 5px chocolate;
+    
+  }
+  
+  
+  
+h1 {
+    text-align: center;
+  }
+  
+ h2 {
+    font-size: 20px;
+  }
+  
+img {
+    float: right;
+    margin-left: 20px;
+    max-width: 200px;
+    
+  }
+  
+  .clearfix {
+    clear: both;
+  }
+ 
+
+  
+  
+
+
+
+ 
