@@ -1,9 +1,9 @@
 body {
-    background-color: blanchedalmond;
+    background-image: url(./assets-api/stars-1436950_960_720.webp);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     
     background-size: cover;
-    color: darkgreen;
+    color: cornsilk;
     font-size: 20px;
   }
 
@@ -23,7 +23,8 @@ body {
 .controls, .results {
     flex: 1;
     padding: 10px;
-    border: solid 5px chocolate;
+    border: solid 5px cornsilk;
+    background-color: darkcyan;
     
   }
   
@@ -41,12 +42,14 @@ img {
     float: right;
     margin-left: 20px;
     max-width: 200px;
+    max-height: 200px;
     
   }
   
   .clearfix {
     clear: both;
   }
+ 
  
 
   
